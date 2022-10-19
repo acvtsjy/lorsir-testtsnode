@@ -1,0 +1,16 @@
+{
+  "name": "testtsnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "testnode",
+    "testjs",
+    "testnodejs"
+  ],
+  "author": "@lorsir <lorenza.sirtori@dit.kyocera.com>",
+  "license": "ISC"
+}
